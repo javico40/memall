@@ -1,0 +1,44 @@
+.ctgPlusItem {
+	LEFT: 0px; WIDTH: 180px; POSITION: absolute; TOP: 0px; HEIGHT: 330px
+}
+.ctgPlusItem .content {
+	BORDER-RIGHT: #006699 1px solid; BORDER-TOP: #006699 2px solid; Z-INDEX: 1888; BORDER-LEFT: #006699 1px solid; BORDER-BOTTOM: #006699 1px solid; POSITION: absolute; BACKGROUND-COLOR: #006699
+}
+.ctgPlusItem .content A {
+	BORDER-RIGHT: #fafafa 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #fafafa 1px solid; DISPLAY: block; PADDING-LEFT: 10px; PADDING-BOTTOM: 3px; BORDER-LEFT: #fafafa 1px solid; WIDTH: 140px; LINE-HEIGHT: 130%; PADDING-TOP: 3px; BORDER-BOTTOM: #fafafa 1px solid
+}
+.ctgPlusItem .content A:hover {
+	BORDER-RIGHT: #006699 1px solid; BORDER-TOP: #006699 1px solid; BORDER-LEFT: #006699 1px solid; BORDER-BOTTOM: #006699 1px solid; BACKGROUND-COLOR: #006699
+}
+.ctgPlusItem LI A:visited {
+	COLOR: #039
+}
+.ctgPlusItem UL {
+	LIST-STYLE-IMAGE: none; MARGIN: 1px; WIDTH: 162px; FONT-FAMILY: tahoma; LIST-STYLE-TYPE: none
+}
+.divExchangeItem {
+	MARGIN-BOTTOM: 15px; PADDING-BOTTOM: 10px; BORDER-BOTTOM: #006699 1px solid; BACKGROUND-COLOR: #fafafa
+}
+
+.lefthead {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../images/index_13.gif); WIDTH: 210px; COLOR: #793b0a; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: tahoma, arial; HEIGHT: 27px
+}
+.lefthead1 {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../images/index_13-1.gif); WIDTH: 210px; COLOR: #793b0a; PADDING-TOP: 3px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: tahoma, arial; HEIGHT: 27px
+}
+.leftbody{
+	BORDER-RIGHT: #006699 1px solid; PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 12px; BORDER-LEFT: #006699 1px solid; COLOR: #1f307e; LINE-HEIGHT: 18px; BORDER-BOTTOM: #006699 1px solid; FONT-FAMILY: tahoma; BACKGROUND-COLOR: #fafafa; TEXT-DECORATION: none
+}
+.leftbody A {
+FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #1f307e; LINE-HEIGHT: 18px; FONT-FAMILY: tahoma; BACKGROUND-COLOR: #fafafa; TEXT-DECORATION: none; 
+}
+.leftbody A:hover {
+PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #1f307e; LINE-HEIGHT: 18px; FONT-FAMILY: tahoma; BACKGROUND-COLOR: #fafafa; TEXT-DECORATION: none; WIDTH: 210px; 
+}
+
+a.submenu  {
+FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #1f307e; LINE-HEIGHT: 18px; FONT-FAMILY: tahoma; BACKGROUND-COLOR: #fafafa; TEXT-DECORATION: none; 
+}
+a:hover.submenu  {
+PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #1f307e; LINE-HEIGHT: 18px; FONT-FAMILY: tahoma; BACKGROUND-COLOR: #dbe9f6; TEXT-DECORATION: none; width:148px;
+}

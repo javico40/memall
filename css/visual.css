@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+/* Visuales */
+
+/* Gradient 1 */
+.tb10 {
+	background-image:url(../img/form_bg.jpg);
+	background-repeat:repeat-x;
+	border:1px solid #d1c7ac;
+	width: 230px;
+	color:#333333;
+	padding:3px;
+	margin-right:4px;
+	margin-bottom:8px;
+	font-family:tahoma, arial, sans-serif;
+}
+
+/* button Rounded Corners */
+
+.fb8 {
+	background: transparent url(../img/buttonround.gif) no-repeat;
+	border: none;
+	outline: none;
+}
+
+.fb8:hover {
+	background: transparent url(../img/buttonhover.gif) no-repeat;
+	border: none;
+	outline: none;
+}
+
+/* text area Gradient 1 */
+.ta10 {
+	background-image:url(images/form_bg.jpg);
+	background-repeat:repeat-x;
+	border:1px solid #d1c7ac;
+	width: 230px;
+	height: 60px;
+	color:#333333;
+	padding:3px;
+	margin-right:4px;
+	margin-bottom:8px;
+	font-family:tahoma, arial, sans-serif;
+
+}
+
+links.h4:hover { text-transform:uppercase; }
